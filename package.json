@@ -1,0 +1,22 @@
+{
+  "name": "homework9",
+  "version": "1.0.0",
+  "description": "https://wingz003.github.io/Notetaker-o-Luigi/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wingz003/Notetaker-o-Luigi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wingz003/Notetaker-o-Luigi/issues"
+  },
+  "homepage": "https://github.com/Wingz003/Notetaker-o-Luigi#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
